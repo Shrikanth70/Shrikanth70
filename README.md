@@ -4,7 +4,7 @@
 
 **AI/ML Engineer | Full-Stack Developer**
 
-I build real-world AI-powered applications using machine learning and full-stack development. I focus on creating production-ready systems, not just models.
+I build real-world AI-powered applications using machine learning and full-stack development, focusing on production-ready systems and leveraging AI-assisted (vibe coding) approaches for rapid development.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Shrikanth70&color=blue&style=flat-square&label=Profile+Views)](https://github.com/Shrikanth70)
 
