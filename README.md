@@ -43,15 +43,6 @@ I build real-world AI-powered applications using machine learning and full-stack
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrikanth70&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Srikanth's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrikanth70&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
----
-
 ### 📫 Connect With Me
 
 <div align="center">
