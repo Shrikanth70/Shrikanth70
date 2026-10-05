@@ -107,7 +107,6 @@ Currently focusing on:
 Languages
 ├── Python
 ├── JavaScript
-├── Java
 ├── SQL
 └── HTML / CSS
 
